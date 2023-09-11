@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: spring-kafka-provider
+  kafka:
+    bootstrapServers: localhost:9092
